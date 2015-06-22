@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #000000;
+    font-family: "宋体";
+    font-size: 12px;
+    color: #333333;
+    line-height: 150%;
+}
+a{
+    color: #f5651f;
+}
+a:hover{
+    color: #ff3399;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style: none;
+}
+.clear{
+    clear: both;
+}

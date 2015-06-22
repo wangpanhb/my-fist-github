@@ -1,0 +1,78 @@
+#banner{
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 993px;
+    height: 110px;
+    background: url("../images/top.gif") no-repeat center top;
+}
+#title{
+    float: left;
+}
+#title a{
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+}
+#title a:hover{
+    color: #f5651f;
+}
+#url a{
+    float: left;
+}
+#desc{
+    clear: left;
+    margin: 5px 0 0 20px;
+    color: #ffffff;
+}
+#menu{
+    margin-left: auto;
+    margin-right: auto;
+    width: 993px;
+    height: 166px;
+    background: url("../images/top2.jpg");
+}
+#mmmenu{
+    float: right;
+    width: 500px;
+    margin: 10px 0 0 0;
+}
+#mainnav{
+    float: left;
+}
+#mainnav li{
+    float: left;
+    list-style: none;
+    padding: 48px 0 0;
+}
+#mainnav li a{
+    padding: 48px 12px 0;
+    background-position: center top;
+    background-repeat: no-repeat;
+    color: #ff331d;
+    text-decoration: none;
+}
+#mainnav li a:hover{
+    color: #0ff50f;
+    background: none;
+}
+.diarycontent{
+    background: url("../images/background.jpg") no-repeat ;
+    height: 500px;
+    width: 700px;
+}
+#rizhi{
+    width: 100%;
+    color: #333333;
+    padding: 8px 0 15px 0;
+}
+.img{
+    width: 270px;
+    height: 180px;
+}
+#content{
+    float: left;
+    width: 700px;
+    padding: 0 20px 5px 132px;
+}
